@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Jean\Downloads\Nova pasta\simulation\modelsim
+vcheio
+!i10b 1
+!s100 X<GYzCOf`O?f[=AVAZXCD0
+IW=^C_Z8P9G4?`d8YF>LGH2
+V[MJTPJibF2Ko>o2Y`FZo60
+Z1 dC:\Users\Jean\Downloads\Nova pasta\simulation\modelsim
+Z2 w1541691629
+Z3 8C:/Users/Jean/Downloads/Nova pasta/PROJETO.v
+Z4 FC:/Users/Jean/Downloads/Nova pasta/PROJETO.v
+L0 306
+Z5 OV;L;10.1b;51
+r1
+!s85 0
+31
+Z6 !s108 1541691697.335000
+Z7 !s107 C:/Users/Jean/Downloads/Nova pasta/PROJETO.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Jean/Downloads/Nova pasta|C:/Users/Jean/Downloads/Nova pasta/PROJETO.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work {+incdir+C:/Users/Jean/Downloads/Nova pasta} -O0
+vexpresso
+!i10b 1
+!s100 gTf6^oTacz9jOF0bRZ8jl0
+ILc1gjRe7eMGR=8e7_5kcR1
+VkgY1e0ci5NXP<o2AEWS0T0
+R1
+R2
+R3
+R4
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10
+vmedio
+!i10b 1
+!s100 =Shg>a[1L<zVe?JENGjP81
+IeBZAbjk:Z0<H_BSE_^Jll0
+V<O5VfCo=]mZD79n;:@`jI3
+R1
+R2
+R3
+R4
+L0 155
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10

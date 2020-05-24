@@ -1,0 +1,38 @@
+|expresso
+clk => busy~reg0.CLK
+clk => current_state~1.DATAIN
+money => ~NO_FANOUT~
+sen_borra => Selector18.IN5
+sen_borra => Selector0.IN3
+sen_grao => Selector12.IN4
+sen_grao => Selector12.IN5
+sen_grao => Selector4.IN1
+sen_grao => Selector0.IN4
+sen_temp => Selector12.IN6
+sen_temp => Selector2.IN4
+nvl_agua => Selector18.IN6
+nvl_agua => Selector16.IN0
+sel_ciclos[0] => Decoder0.IN2
+sel_ciclos[0] => Decoder1.IN1
+sel_ciclos[0] => Selector10.IN0
+sel_ciclos[1] => Decoder0.IN1
+sel_ciclos[1] => Decoder1.IN0
+sel_ciclos[2] => Decoder0.IN0
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => current_state.OUTPUTSELECT
+rst => busy~reg0.DATAIN
+coffee <= coffee.DB_MAX_OUTPUT_PORT_TYPE
+balance <= <GND>
+clock1hz => contador[0].CLK
+clock1hz => contador[1].CLK
+clock1hz => contador[2].CLK
+clock1hz => contador[3].CLK
+busy <= busy~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

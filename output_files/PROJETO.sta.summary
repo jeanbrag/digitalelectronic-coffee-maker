@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'current_state.S4sel_ciclos'
+Slack : -2.476
+TNS   : -11.999
+
+Type  : Slow Model Setup 'current_state.S1contagem_money'
+Slack : -2.025
+TNS   : -2.025
+
+Type  : Slow Model Setup 'clk'
+Slack : -0.651
+TNS   : -2.423
+
+Type  : Slow Model Hold 'current_state.S4sel_ciclos'
+Slack : -2.407
+TNS   : -2.407
+
+Type  : Slow Model Hold 'current_state.S1contagem_money'
+Slack : -1.092
+TNS   : -1.092
+
+Type  : Slow Model Hold 'clk'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.631
+TNS   : -11.407
+
+Type  : Slow Model Minimum Pulse Width 'current_state.S1contagem_money'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'current_state.S4sel_ciclos'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'current_state.S4sel_ciclos'
+Slack : -0.552
+TNS   : -1.263
+
+Type  : Fast Model Setup 'current_state.S1contagem_money'
+Slack : -0.418
+TNS   : -0.418
+
+Type  : Fast Model Setup 'clk'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast Model Hold 'current_state.S4sel_ciclos'
+Slack : -1.411
+TNS   : -1.625
+
+Type  : Fast Model Hold 'current_state.S1contagem_money'
+Slack : -0.393
+TNS   : -0.393
+
+Type  : Fast Model Hold 'clk'
+Slack : -0.210
+TNS   : -0.210
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -9.380
+
+Type  : Fast Model Minimum Pulse Width 'current_state.S1contagem_money'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'current_state.S4sel_ciclos'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

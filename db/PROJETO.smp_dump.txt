@@ -1,0 +1,12 @@
+
+State Machine - |expresso|current_state
+Name current_state.S9cafe current_state.S8espera current_state.S5verifica_temp current_state.S4sel_ciclos current_state.S6ciclo_moagem current_state.S7verifica_graos current_state.S2verifica_agua current_state.S3verifica_borra current_state.S1contagem_money 
+current_state.S1contagem_money 0 0 0 0 0 0 0 0 0 
+current_state.S3verifica_borra 0 0 0 0 0 0 0 1 1 
+current_state.S2verifica_agua 0 0 0 0 0 0 1 0 1 
+current_state.S7verifica_graos 0 0 0 0 0 1 0 0 1 
+current_state.S6ciclo_moagem 0 0 0 0 1 0 0 0 1 
+current_state.S4sel_ciclos 0 0 0 1 0 0 0 0 1 
+current_state.S5verifica_temp 0 0 1 0 0 0 0 0 1 
+current_state.S8espera 0 1 0 0 0 0 0 0 1 
+current_state.S9cafe 1 0 0 0 0 0 0 0 1 
